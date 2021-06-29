@@ -58,3 +58,6 @@ map + <c-w>>
 set encoding=utf-8
 
 set rtp+=~/tabnine-vim
+
+" To highlight all search matches
+set hlsearch

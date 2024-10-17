@@ -8,5 +8,5 @@ git config --global --edit
 ```
 
 # zsh theme
-
-`https://gist.github.com/kevin-smets/8568070`
+* `https://github.com/ohmyzsh/ohmyzsh`
+* `https://gist.github.com/kevin-smets/8568070`
